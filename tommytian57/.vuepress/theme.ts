@@ -31,7 +31,8 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "一个前端开发者",
+    name: "田浩良 Tommy",
+    description: "一个热爱生活的少年",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
