@@ -3,9 +3,10 @@ home: true
 layout: Blog
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /felt.png
 heroText: 田浩良的精彩人生
 heroFullScreen: true
+bgImage: "/thld.webp"
 tagline: 大家好，我叫田浩良，来自辽宁省大连市。<br/>我出生于2002年5月7日；<br/>2008年-2014年在大连市西岗区五四路小学上1-6年级；<br/>2014年-2017年在大连市第三十四中学上7-9年级；<br/>2017年-2021年在大连美国国际学校上9-12年级。<br/>目前就读于美国纽约大学综合媒体设计专业，正在向着更好的自己不断向前！
 projects:
   - icon: play
@@ -33,7 +34,7 @@ projects:
     desc: 伙伴详细介绍
     link: https://你的伙伴链接
 
-  - icon: /logo.svg
+  - icon: /felt.png
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接

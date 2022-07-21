@@ -32,6 +32,7 @@ export default hopeTheme({
 
   blog: {
     name: "田浩良 Tommy",
+    avatar: "/felt.png",
     description: "一个热爱生活的少年",
     intro: "/intro.html",
     medias: {
