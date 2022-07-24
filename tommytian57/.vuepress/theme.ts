@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/felt.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "tommytian57/tommytian57.github.io",
 
   docsDir: "demo/src",
 
