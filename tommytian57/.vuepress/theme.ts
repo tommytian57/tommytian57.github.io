@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: sidebar,
 
-  footer: "默认页脚",
+  footer: "纽约大学大一在读，热爱摄影，设计，骑行，在学校拥有自己的自行车俱乐部，欢迎大家加入。",
 
   displayFooter: true,
 
@@ -86,11 +86,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      // provider: "Giscus",
+      // repo: "vuepress-theme-hope/giscus-discussions",
+      // repoId: "R_kgDOG_Pt2A",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOG_Pt2M4COD69",
 
       /**
        * Using Twikoo
@@ -101,8 +101,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      // provider: "Waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      provider: "Waline",
+      serverURL: "https://comments.tommytian57.com/",
     },
 
     mdEnhance: {
