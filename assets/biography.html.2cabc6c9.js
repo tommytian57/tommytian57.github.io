@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o,c as t,a as r}from"./app.17b286a9.js";const _={},a=r("p",null,"\u8FD9\u662F\u5173\u4E8E\u6211\u7684\u4E00\u4E2A\u7B80\u5355\u7684\u5C0F\u81EA\u4F20...",-1),c=[a];function s(n,l){return o(),t("div",null,c)}var m=e(_,[["render",s],["__file","biography.html.vue"]]);export{m as default};
