@@ -25,7 +25,7 @@ export default defineUserConfig({
       // update: "force",
       update: "hint",
       // maxSize: 6,
-      favicon: "/cuike.ico",
+      // favicon: "/cuike.ico",
     }),
     
     searchPlugin({
