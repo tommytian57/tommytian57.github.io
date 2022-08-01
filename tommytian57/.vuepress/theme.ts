@@ -70,7 +70,7 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/guide/encrypt.html": ["1234"],
+      "/posts/biography.html": ["020507"],
     },
   },
 
