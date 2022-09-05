@@ -70,11 +70,16 @@ export default hopeTheme({
 
   encrypt: {
     config: {
+      "/Web_Notebook/web_01.html": ["334463"],
       "/posts/biography.html": ["020507"],
     },
   },
 
   plugins: {
+    pwa: {
+      update: "hint",
+      maxPicSize: 2048,
+    },
     blog: {
       autoExcerpt: true,
     },
