@@ -67,10 +67,9 @@ control+c
 
 老师的笔记
 
-```markdown
-[https://bornforthis.cn/1v1/04-TommyTian/01.html](https://bornforthis.cn/1v1/04-TommyTian/01.html)
-[链接](链接)
-```
+https://bornforthis.cn/1v1/04-TommyTian/01.html
+
+
 
 
 
