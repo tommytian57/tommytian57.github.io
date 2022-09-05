@@ -63,3 +63,7 @@ control+c
 
 找一张图片（截图也可以）直接复制，点击允许创建文件夹后，图片即可出线，在小括号部分最前面插入./
 
+
+
+老师的笔记：https://bornforthis.cn/1v1/04-TommyTian/01.html
+
