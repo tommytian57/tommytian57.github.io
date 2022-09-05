@@ -48,6 +48,15 @@ sh tommytian57.sh
 control+c
 ```
 
+检查部署是否成功或者失败
 
+1. 访问: [https://github.com/tommytian57/tommytian57.github.io](https://github.com/tommytian57/tommytian57.github.io)
 
- 
+```markdown
+[https://github.com/tommytian57/tommytian57.github.io](https://github.com/tommytian57/tommytian57.github.io)
+[链接名称](链接)
+```
+
+2. 插入图片
+
+![image-20220904215814484](./web_01.assets/image-20220904215814484.png)
