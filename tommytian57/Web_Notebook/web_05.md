@@ -108,3 +108,23 @@ strong和em均表示：着重阅读。
 
 一些元素只有一个标签，元素标签内服有一些额外信息，这样的元素叫做空元素，比如：`<img>`（照片）。
 
+
+
+# 添加超链接
+
+用`<a></a>`添加超链接
+
+标准格式：
+
+`<a href="https://twitter.com/binottomattia?lang=en"><img src="images/binotto_4.jpg" height="300px" width="250" alt="我图呢卧槽？！"></a>`
+
+`点击进入小丑的<a href="https://www.ferrari.com/en-EN/formula1/mattia-binotto">官方介绍</a><br>`
+
+
+
+# 列表
+
+有序列表：1，2，3
+
+无序列表：·，·，·
+
